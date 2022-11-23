@@ -36,17 +36,18 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
+DART studio screen shots for linear interpolation and
 DART studio screen shots for joint interpolation 
+
+
+![Screenshot 2022-11-23 171804](https://user-images.githubusercontent.com/113031702/203541686-2a944de4-0bad-43ae-8478-f0477af99f73.png)
+
+
+
+
+
+
+
 
 
 
@@ -57,6 +58,11 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
+![Screenshot 2022-11-23 171824](https://user-images.githubusercontent.com/113031702/203541521-e5c692d2-17a4-4e43-b2aa-3a083c9bac17.png)
+
+![Screenshot 2022-11-23 171839](https://user-images.githubusercontent.com/113031702/203541533-5e113648-fd7c-4700-a280-1dff975d7f1c.png)
+
+![Screenshot 2022-11-23 171900](https://user-images.githubusercontent.com/113031702/203541679-1f59eb7c-1492-4c14-ad45-9efecfd912e3.png)
 
 
 
@@ -71,3 +77,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+Thus,linear and joint interpolation oj industrial manipulator and program is executed.
